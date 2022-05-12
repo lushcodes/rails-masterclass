@@ -15,8 +15,6 @@ class Student
   def to_s
     "First name: #{@first_name}, Last name: #{@last_name}, Email: #{@email}, Username; #{@username}"
   end
-
-
 end
 
 luke = Student.new("Luke", "Usher", "lushcodes@gmail.com", "lushcodes", "password1")
