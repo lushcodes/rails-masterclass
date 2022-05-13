@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
   root 'pages#home'
-  #Eeven testier!
+  get 'about', to: 'pages#about'
 end
