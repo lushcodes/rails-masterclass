@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/3_rails/rails_5_projects/test_app_5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3_rails/rails_6_projects/alpha-blog" vcs="Git" />
   </component>
 </project>
